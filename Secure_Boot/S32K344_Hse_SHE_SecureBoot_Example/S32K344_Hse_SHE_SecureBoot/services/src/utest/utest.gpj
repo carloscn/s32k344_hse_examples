@@ -1,0 +1,3 @@
+#!gbuild
+[Subproject]
+hse_utest.c

@@ -1,0 +1,60 @@
+-DINIT_STDBY_RAM
+-DARMCM7_SP
+-DAUTOSAR_OS_NOT_USED
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/include"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/interface"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/interface/config"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/interface/inc_common"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/interface/inc_custom"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/interface/inc_services"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/drivers"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/drivers/dcm_register"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/drivers/flash"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/drivers/mu"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/drivers/nvic"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/drivers/stm"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/framework"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/framework/host_crypto_helper"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/framework/host_hse"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/framework/host_hse/hse_b"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/framework/host_keymgmt"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/plugins"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/plugins/Base_TS_T40D11M4I0R0"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/plugins/Base_TS_T40D11M4I0R0/include"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/inc"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/inc/host_flash"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/inc/host_flash/S32K3x4"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/inc/standard"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/common"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/fw_attribute"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/fw_attribute/non-otp"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/fw_attribute/otp"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/fw_crypto"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/fw_update"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/fw_update/standard"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/monotonic_cnt"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/secure_boot"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/shecommandapp"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/standard"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/services/src/utest"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src/target"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src/target/m7"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src/target/m7/include"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src/target/m7/S32DS"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src/target/m7/S32DS/Debugger"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src/target/m7/S32DS/Linker_Files"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src/target/m7/S32DS/Linker_Files/standard"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src/target/m7/S32DS/Startup_Code"
+-I"C:/Users/nxf86749/OneDrive - NXP/S32K3/SW/Security/DemoApp/S32K344_DemoAppTemplate/src/target/m7/src"
+-O0
+-g3
+-Wall
+-c
+-fmessage-length=0
+-ffunction-sections
+-fdata-sections
+-mcpu=cortex-m7
+-specs=nosys.specs

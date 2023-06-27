@@ -1,0 +1,10 @@
+#!gbuild
+[Subproject]
+non-otp\hse_get_version.c
+non-otp\hse_get_capabilities.c
+non-otp\hse_mu_config.c
+otp\hse_debug_auth_mode.c
+otp\hse_advance_LC.c
+otp\hse_boot_auth.c
+otp\hse_debug_key.c
+otp\hse_extend_cust_security_policy.c

@@ -1,0 +1,5 @@
+#!gbuild
+[Subproject]
+hse_boot_mac_key_update.c
+hse_secure_boot.c
+hse_host_boot.c

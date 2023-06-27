@@ -1,0 +1,8 @@
+#!gbuild
+[Subproject]
+hse_host_common.c
+hse_host_test.c
+hse_host_wrappers.c
+hse_memory_update_protocol.c
+hse_she_commands.c
+hse_she_command_main.c
